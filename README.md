@@ -64,6 +64,13 @@ Este repositório foi criado para organizar todas as atividades, anotações, pr
 -  Exercícios com Docker
 -  Estudos sobre Linux
 -  Projetos da disciplina
+  
+---
+
+## Slides da disciplina
+
+- Os slides utilizados nesta disciplina foram disponibilizados pelo professor durante as aulas.
+- Por respeito aos direitos autorais, eles não estão disponíveis neste repositório.
 
 ---
 
