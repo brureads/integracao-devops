@@ -1,6 +1,11 @@
+<div align="center">
+
 # Integração DevOps
 
-> Repositório destinado às atividades, anotações e projetos desenvolvidos durante a disciplina de **Integração DevOps**.
+Repositório destinado às atividades, anotações e projetos desenvolvidos durante a disciplina de **Integração DevOps**.
+
+</div>
+
 
 ---
 
